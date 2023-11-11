@@ -35,7 +35,7 @@ Install this project by following the steps below:
 
 ## License
 
-The license belonging to this project corresponds to the MIT Licence, for more details go to the following file [LICENSE](LICENSE).
+The license belonging to this project corresponds to the MIT Licence, for more details go to the following file [LICENSE](LICENSE.txt).
 
 ## Acknowledgements
 
