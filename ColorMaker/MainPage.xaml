@@ -15,7 +15,7 @@
                 <Label FontAttributes="Bold"
                        FontSize="Large"
                        HorizontalTextAlignment="Center"
-                       Text="Color Marker"/>
+                       Text="Color Maker"/>
                 <Label Text="Red Value: "/>
                 <Slider x:Name="sldRed"
                         ThumbColor="{StaticResource Primary}"
