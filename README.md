@@ -13,4 +13,3 @@ The technologies used in this project are:
 
  - C#
  - XAML
- - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
