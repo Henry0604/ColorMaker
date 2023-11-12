@@ -7,9 +7,9 @@ This project is a practice taken from a YouTube video for the realization of an 
 
 This app created from C# with MAUI has the function of generating colors from combining the data in a RBG through 3 sliders, we can also generate colors randomly and finally we can have it through the HEX code that we can copy and use wherever we need.
 
-<img src="https://github.com/Henry0604/ColorMaker/assets/113632465/e95526da-a9c9-4f41-8155-458fb8aedce7" alt="Main Page" width="250" height="500" />
-<img src="https://github.com/Henry0604/ColorMaker/assets/113632465/633c271f-3ee8-4ed6-b6f7-0c200d6fe312" alt="RGB" width="250" height="500" style="padding=2;"/>
-<img src="https://github.com/Henry0604/ColorMaker/assets/113632465/7a62d726-1538-48e5-a172-036509ec6740" alt="Color Copied" width="250" height="500" />
+<img src="https://github.com/Henry0604/ColorMaker/assets/113632465/7e2a28fc-6e4e-4ee4-9d19-987dc8871849" alt="Main Page" width="250" height="500" />
+<img src="https://github.com/Henry0604/ColorMaker/assets/113632465/445b0ab3-651f-4bfc-b3cc-a360bdf92676" alt="RGB" width="250" height="500" style="padding=2;"/>
+<img src="https://github.com/Henry0604/ColorMaker/assets/113632465/25ea9a8f-3190-441e-bdd8-02e4c43d90af" alt="Color Copied" width="250" height="500" />
 
 ## Technologies used 
 
@@ -21,7 +21,8 @@ The technologies used in this project are:
 
 ## Demonstration video
 
-https://github.com/Henry0604/ColorMaker/assets/113632465/7752a3d9-4512-4610-acba-4a8ae4e719e3
+
+https://github.com/Henry0604/ColorMaker/assets/113632465/b3995b93-fd15-464e-a596-d649559e69cf
 
 
 ## Installation
